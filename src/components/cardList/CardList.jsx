@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./footer.module.css";
 
-const Featured = () => {
-	return <div className="styles.container">Featured</div>;
+const CardList = () => {
+	return <div className="styles.container">CardList</div>;
 };
 
-export default Featured;
+export default CardList;
