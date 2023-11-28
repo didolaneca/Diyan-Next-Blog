@@ -9,20 +9,6 @@ export default function Home() {
 				quos deserunt fuga aperiam. Facere quasi, quibusdam expedita
 				omnis est amet! Repellat!
 			</h1>
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam
-			porro sunt excepturi perferendis assumenda. Doloribus ipsam
-			molestiae ex aliquid, pariatur eum consequatur aliquam alias magni,
-			nemo, exercitationem eaque mollitia commodi.
-			<br />
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam
-			porro sunt excepturi perferendis assumenda. Doloribus ipsam
-			molestiae ex aliquid, pariatur eum consequatur aliquam alias magni,
-			nemo, exercitationem eaque mollitia commodi.
-			<br />
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam
-			porro sunt excepturi perferendis assumenda. Doloribus ipsam
-			molestiae ex aliquid, pariatur eum consequatur aliquam alias magni,
-			nemo, exercitationem eaque mollitia commodi.
 		</div>
 	);
 }
